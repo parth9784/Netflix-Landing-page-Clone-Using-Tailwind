@@ -1,0 +1,1 @@
+This repository contains the frontend clone of Netflix Landing Page using HTML,Tailwind CSS and JavaScipt that is fully responsive .In This clone I have also added some things that I think are boring on Netflix page so I have made changes in it Hope you Like it!!!
